@@ -1,0 +1,22 @@
+{
+  "wheel_id": 563,
+  "structure": "umbrella",
+  "slug": "ext-t1-20260809-102",
+  "project": "retaining-walls-toowoomba-faq-f26f8ce51ee6499d2b087228a2344a",
+  "parent_t1_ref": "ext-t1-20260809-150",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com.au",
+  "primary_kw": "retaining walls Toowoomba faq",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-walls-toowoomba-faq-f26f8ce51ee6499d2b087228a2344a/",
+  "tier": "T2",
+  "writeback_nonce": "cf156e646f97ab62",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-toowoomba-red-flags-81040c0f93804a4ddd3dc3cffe8/",
+      "anchor": "Retaining Walls Toowoomba Red Flags: Red Flags to Watch For",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
